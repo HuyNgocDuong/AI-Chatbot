@@ -10,6 +10,8 @@
   "author": "Huy",
   "license": "MIT",
   "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "axios": "^1.8.3",
     "colors": "^1.4.0",
     "dotenv": "^16.4.7",
     "openai": "^3.3.0",
